@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Header from '@/components/Header.vue'
+import Header from './components/Header.vue'
 
 
 const router = createRouter({
